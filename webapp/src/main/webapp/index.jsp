@@ -11,7 +11,7 @@ div {text-align: center;}
 <h1 style="color:blue;"> Hello, Welcome to Our DevOps 2nd Project  </h1>
 <h1 style="color:blue;"> Version: 1.27 - Running on Ansible server to create a container on Docker Server - Subscribe my channel and keep learning </h1>
 <h1 style="color:yellow;"> Hello, Welcome to Cloud Computing  </h1>
-<h1 style="color:yellow;"> Hello, Welcome Ansible </h1>
+<h1 style="color:red;"> Hello, Welcome Ansible host </h1>
 </body>
 </html>
 
